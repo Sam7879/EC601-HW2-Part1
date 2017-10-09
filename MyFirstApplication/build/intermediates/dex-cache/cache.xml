@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jinyu\Desktop\MyFirstApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea8144844d1d7ef98e5b15edb91bdeb864204549">
+        <dex dex="C:\Users\jinyu\Desktop\MyFirstApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4167fbc8ef381c6cd83530887c053c172000be8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jinyu\Desktop\MyFirstApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\jinyu\Desktop\MyFirstApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c7ca9feb6049fcb88094f2f81d2965b0eb99390f\classes.dex" />
+    </item>
+
+</items>
