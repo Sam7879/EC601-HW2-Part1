@@ -15,3 +15,5 @@ In this project, I have completed four parts:
 
 Finally, this app contains two atcitivities, you can type some words on the first activity, and sent them to the second activity.
 
+![Image text](https://raw.githubusercontent.com/YuanhaoJin/EC601-HW2-Part1/master/images/2.jpg)
+![Image text](https://raw.githubusercontent.com/YuanhaoJin/EC601-HW2-Part1/master/images/1.png)
